@@ -25,4 +25,4 @@ else:
 total_to_pay = order_total + delivery_charge
  
 print(f"Delivery charge: £{delivery_charge:.2f}")
-print(f"Total to pay: £{total_to_pay:.2f}")
+print(f"Total to pay: £{total_to_pay}")
